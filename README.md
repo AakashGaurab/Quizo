@@ -18,7 +18,7 @@
 # Deployed Link
 [http://65.0.106.33:3502](http://65.0.106.33:3502)
 
-# finkraftbackend repo link
+# Quizzo backend repo link
 [https://github.com/AakashGaurab/Quizo](https://github.com/AakashGaurab/Quizo)
 
 # Entities
