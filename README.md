@@ -83,7 +83,7 @@ GET /quizzes/active
 header token:{jwtToken from login}
 
 Response {
-    ```
+   ```
     {
     "_id": "658185cc40a14924919221ae",
     "question": "Highest Mountain of the World",
