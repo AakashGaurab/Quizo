@@ -13,12 +13,15 @@
 - Postman
 - express-rate-limit
 - crone
+
+
+# Deployed Link
 [http://65.0.106.33:3502](http://65.0.106.33:3502)
 
 # finkraftbackend repo link
 [https://github.com/AakashGaurab/Quizo](https://github.com/AakashGaurab/Quizo)
 
-#Entities
+# Entities
 User
 - id(Primary key)
 - name
@@ -80,6 +83,7 @@ GET /quizzes/active
 header token:{jwtToken from login}
 
 Response {
+    ```
     {
     "_id": "658185cc40a14924919221ae",
     "question": "Highest Mountain of the World",
@@ -93,7 +97,8 @@ Response {
     "startDate": "2023-12-19T11:53:37.531Z",
     "endDate": "2023-12-20T00:00:00.000Z",
     "__v": 0
-}
+   }
+   ```
 }
 
 
@@ -109,6 +114,8 @@ header token:{jwtToken from login}
 
 
 response {
+    ```
+    
     {
     "_id": "658185cc40a14924919221ae",
     "question": "Highest Mountain of the World",
@@ -122,5 +129,6 @@ response {
     "startDate": "2023-12-19T11:53:37.531Z",
     "endDate": "2023-12-20T00:00:00.000Z",
     "__v": 0
-}
+    }
+    ```
 }
