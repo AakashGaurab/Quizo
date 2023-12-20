@@ -68,7 +68,7 @@ POST /quizzes/
 headers token (jwtToken)
 ```
 {
-    "qestion":"Highest Mountain of the World",
+    "question":"Highest Mountain of the World",
     "options":["Mt AnduBandu","Mt Machapuchre","Mt Everest","Mt Kanchanjanga"],
     "rightAnswer":2,
     "startDate":"2023-12-19T11:53:37.531Z",
